@@ -1,0 +1,6 @@
+version: 2
+
+build:
+  os: "Windows_NT x64 10.0.19043"
+  tools:
+    python: "3.8"
